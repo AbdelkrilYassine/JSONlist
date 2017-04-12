@@ -18,7 +18,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Hi" />
-        <activity android:name=".reg"></activity>
+        <activity android:name=".reg" />
     </application>
 
 </manifest>

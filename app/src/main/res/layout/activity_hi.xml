@@ -45,6 +45,15 @@
         android:layout_below="@+id/home_email"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/home_ns"
+        android:layout_below="@+id/home_password"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -54,4 +63,5 @@
         android:id="@+id/err"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
